@@ -8,6 +8,7 @@ Enter Music Match. Our aim is to simplify your search and connect listeners with
 
 
 # Requirements:
+You can fin them in the requirements.txt
 spotipy==2.23.0
 streamlit==1.27.2
 pandas==2.1.1
